@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4e9385319d13f5e0",
@@ -171,17 +172,17 @@
   },
   "active": "36e567ba024e042d",
   "lastOpenFiles": [
+    "Pasted image 20250825000634.png",
+    "Pasted image 20250824233623.png",
+    "Pasted image 20250824233605.png",
+    "Pasted image 20250824233358.png",
+    "Pasted image 20250824233140.png",
+    "Pasted image 20250824231527.png",
+    "Pasted image 20250824231145.png",
     "Pasted image 20250823220826.png",
     "Pasted image 20250823220114.png",
     "Pasted image 20250823215359.png",
     "Pasted image 20250823215213.png",
-    "Pasted image 20250823214942.png",
-    "Pasted image 20250823214931.png",
-    "Pasted image 20250823214919.png",
-    "Pasted image 20250823214752.png",
-    "Pasted image 20250823214549.png",
-    "Pasted image 20250823214153.png",
-    "Pasted image 20250823213717.png",
     "计算机三级——网络技术.md"
   ]
 }
