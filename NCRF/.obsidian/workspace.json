@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机三级——网络技术.md",
+                "file": "output/计算机三级——网络技术.md",
                 "mode": "source",
                 "source": false
               },
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,17 +171,19 @@
   },
   "active": "36e567ba024e042d",
   "lastOpenFiles": [
-    "Pasted image 20250828160030.png",
-    "Pasted image 20250828155930.png",
-    "Pasted image 20250828155701.png",
-    "Pasted image 20250828154033.png",
-    "Pasted image 20250828153944.png",
-    "Pasted image 20250828153846.png",
-    "Pasted image 20250828142535.png",
-    "Pasted image 20250828142502.png",
-    "Pasted image 20250828141929.png",
-    "Pasted image 20250828141407.png",
-    "Pasted image 20250828141315.png",
-    "计算机三级——网络技术.md"
+    "计算机三级——网络技术.md",
+    "output/计算机三级——网络技术.md",
+    "output/attachment/ade1f36c695fd93203cb3ae027ac2ba0.png",
+    "output/attachment/975bf3786c850da1440add95351ec835.png",
+    "output/attachment/8c78e39df1968cd4ca6d2ed9656afca3.png",
+    "output/attachment/23a0e873333cfdf04e45c3bdb56af867.png",
+    "output/attachment/38b806cf8993e0a8c43d5c28e513a2da.png",
+    "output/attachment/990cc6aaa4d8f94bc0791988d106b8bc.png",
+    "output/attachment/0373a05212161e6a2a9b5f782e22f14e.png",
+    "output/attachment/2e60bb5972c71bbc68b1b24305febcbc.png",
+    "output/attachment/036450014d60a5bff01e5508ee36b866.png",
+    "output/attachment/13743358aa6b0cf68aee9b671088f1e0.png",
+    "output/attachment",
+    "output"
   ]
 }
